@@ -1,0 +1,2603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ranki",
+				"ranking"
+			],
+			[
+				"id",
+				"id_ranking"
+			],
+			[
+				"fro",
+				"foreach\tforeach …"
+			],
+			[
+				"rank",
+				"ranking_value"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"dtr",
+				"dtr_ranking_concepts"
+			],
+			[
+				"rak",
+				"ranked_by"
+			],
+			[
+				"ranke",
+				"ranked_by"
+			],
+			[
+				"pa",
+				"parseJSON"
+			],
+			[
+				"quot",
+				"quotation"
+			],
+			[
+				"is",
+				"is_visit"
+			],
+			[
+				"req",
+				"requirement_name"
+			],
+			[
+				"com",
+				"companyName"
+			],
+			[
+				"quo",
+				"quotation_status"
+			],
+			[
+				"ida",
+				"id_assoc"
+			],
+			[
+				"re",
+				"requirements"
+			],
+			[
+				"w-",
+				"w-50 \tBootstrap 4 Class"
+			],
+			[
+				"par",
+				"parseJSON"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"total",
+				"total"
+			],
+			[
+				"mb",
+				"mb-3 \tBootstrap 4 Class"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"slie",
+				"sliders"
+			],
+			[
+				"ran",
+				"ranking_values"
+			],
+			[
+				"user",
+				"user_role"
+			],
+			[
+				"w",
+				"w-25 \tBootstrap 4 Class"
+			],
+			[
+				"mt",
+				"mt-3 \tBootstrap 4 Class"
+			],
+			[
+				"lock",
+				"lockUser"
+			],
+			[
+				"sele",
+				"selectpicker"
+			],
+			[
+				"ch",
+				"chartOptions"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"g",
+				"GET"
+			],
+			[
+				"active",
+				"activeLang"
+			],
+			[
+				"qu",
+				"quotation_status"
+			],
+			[
+				"quota",
+				"quotation_code"
+			],
+			[
+				"boo",
+				"bootstrapTable"
+			],
+			[
+				"q",
+				"quotation"
+			],
+			[
+				"cotiza",
+				"cotizaciones"
+			],
+			[
+				"d",
+				"d-flex \tBootstrap 4 Class"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"tex",
+				"text-white"
+			],
+			[
+				"font",
+				"font-weight-bold \tBootstrap 4 Class"
+			],
+			[
+				"stop",
+				"stopImmediatePropagation"
+			],
+			[
+				"text-d",
+				"text-dark"
+			],
+			[
+				"aler",
+				"alert-danger"
+			],
+			[
+				"textw",
+				"text-white \tBootstrap 4 Class"
+			],
+			[
+				"alert",
+				"alert-success \tBootstrap 4 Class"
+			],
+			[
+				"resp",
+				"response"
+			],
+			[
+				"p",
+				"p-2 \tBootstrap 4 Class"
+			],
+			[
+				"disp",
+				"display-4 \tBootstrap 4 Class"
+			],
+			[
+				"al",
+				"alert-danger \tBootstrap 4 Class"
+			],
+			[
+				"mail",
+				"mail-tpl"
+			],
+			[
+				"quotat",
+				"quotation"
+			],
+			[
+				"show",
+				"showLoadingBar"
+			],
+			[
+				"conc",
+				"concept_value"
+			],
+			[
+				"quotati",
+				"quotation_status"
+			],
+			[
+				"las",
+				"lastQuotId"
+			],
+			[
+				"hi",
+				"hidden-item"
+			],
+			[
+				"hidden",
+				"hidden-row"
+			],
+			[
+				"alr",
+				"alert-info \tBootstrap 4 Class"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"d-i",
+				"d-inline \tBootstrap 4 Class"
+			],
+			[
+				"tas",
+				"table-striped \tBootstrap 4 Class"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"my",
+				"myQuots"
+			],
+			[
+				"bor",
+				"border-top-0 \tBootstrap 4 Class"
+			],
+			[
+				"border",
+				"border-left-0 \tBootstrap 4 Class"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"ju",
+				"justify-content-between \tBootstrap 4 Class"
+			],
+			[
+				"bo",
+				"border-top-0 \tBootstrap 4 Class"
+			],
+			[
+				"mr",
+				"mr-4 \tBootstrap 4 Class"
+			],
+			[
+				"dtr_req",
+				"dtr_requirements_address"
+			],
+			[
+				"prog",
+				"programation_date"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"flo",
+				"float-right \tBootstrap 4 Class"
+			],
+			[
+				"require",
+				"requirement-name"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"ins",
+				"insert_id"
+			],
+			[
+				"last",
+				"lastAddressId"
+			],
+			[
+				"wp",
+				"wp-address"
+			],
+			[
+				"qe",
+				"query"
+			],
+			[
+				"query",
+				"queryAddr"
+			],
+			[
+				"da",
+				"daddress"
+			],
+			[
+				"qr",
+				"qrcode"
+			],
+			[
+				"_set",
+				"_setData"
+			],
+			[
+				"addr",
+				"address"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"j",
+				"justify-content-between \tBootstrap 4 Class"
+			],
+			[
+				"btn",
+				"btn-sm \tBootstrap 4 Class"
+			],
+			[
+				"haz",
+				"hazardDetail"
+			],
+			[
+				"jus",
+				"justify-content-between \tBootstrap 4 Class"
+			],
+			[
+				"fon",
+				"font-weight-bold \tBootstrap 4 Class"
+			],
+			[
+				"produ",
+				"product"
+			],
+			[
+				"conta",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"auto",
+				"autocomplete"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"hs",
+				"hsdescription"
+			],
+			[
+				"prev",
+				"previewContainer"
+			],
+			[
+				"uplo",
+				"uploadable"
+			],
+			[
+				"ima",
+				"image-uploaded"
+			],
+			[
+				"activ",
+				"activeUser"
+			],
+			[
+				"imgs",
+				"imagesCfg"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"form",
+				"form-group \tBootstrap 4 Class"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"pla",
+				"placeId"
+			],
+			[
+				"pre",
+				"presentation-address"
+			],
+			[
+				"addres",
+				"addressType"
+			],
+			[
+				"vl",
+				"validDate"
+			],
+			[
+				"vali",
+				"validDate"
+			],
+			[
+				"hidd",
+				"hiddenRow"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"data",
+				"dataItem"
+			],
+			[
+				"con",
+				"containerHazardProducts"
+			],
+			[
+				"m-t",
+				"mt-1 \tBootstrap 4 Class"
+			],
+			[
+				"cust",
+				"custom-select \tBootstrap 4 Class"
+			],
+			[
+				"textc",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"d-in",
+				"d-inline-block \tBootstrap 4 Class"
+			],
+			[
+				"sle",
+				"selCountry"
+			],
+			[
+				"cont",
+				"containerData"
+			],
+			[
+				"oper",
+				"opertationType"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/vendor/composer/autoload_psr4.php.backup",
+			"settings":
+			{
+				"buffer_size": 1257,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/language/es/validation_lang.php",
+			"settings":
+			{
+				"buffer_size": 1247,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/language/es/tables_lang.php",
+			"settings":
+			{
+				"buffer_size": 10472,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/config.views.php",
+			"settings":
+			{
+				"buffer_size": 11987,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/Place/Assoc.php",
+			"settings":
+			{
+				"buffer_size": 2475,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/Users/RankUser.php",
+			"settings":
+			{
+				"buffer_size": 4194,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/Quotations/Get.php",
+			"settings":
+			{
+				"buffer_size": 1587,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/Chart.php",
+			"settings":
+			{
+				"buffer_size": 6983,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/Ranking.php",
+			"settings":
+			{
+				"buffer_size": 8207,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/Users/Getusers.php",
+			"settings":
+			{
+				"buffer_size": 4288,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/Requirements/SetViews.php",
+			"settings":
+			{
+				"buffer_size": 7495,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/es/requirements/modal-user-ranking.php",
+			"settings":
+			{
+				"buffer_size": 805,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/Place/User.php",
+			"settings":
+			{
+				"buffer_size": 2257,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/DataChart.php",
+			"settings":
+			{
+				"buffer_size": 1795,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/Quotations/SetTable.php",
+			"settings":
+			{
+				"buffer_size": 4848,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/Requirements/SetTable.php",
+			"settings":
+			{
+				"buffer_size": 12544,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/navbar-user.php",
+			"settings":
+			{
+				"buffer_size": 4629,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/es/users/user-home.php",
+			"settings":
+			{
+				"buffer_size": 4184,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/es/users/assoc-home.php",
+			"settings":
+			{
+				"buffer_size": 5458,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/user.js",
+			"settings":
+			{
+				"buffer_size": 16525,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/ranking.js",
+			"settings":
+			{
+				"buffer_size": 3688,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/product.js",
+			"settings":
+			{
+				"buffer_size": 15361,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/charts.js",
+			"settings":
+			{
+				"buffer_size": 2131,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/bootstrap-table/bst-events.js",
+			"settings":
+			{
+				"buffer_size": 2351,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/requirements/requirements.js",
+			"settings":
+			{
+				"buffer_size": 24182,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/quotations.js",
+			"settings":
+			{
+				"buffer_size": 10458,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/interface.js",
+			"settings":
+			{
+				"buffer_size": 7578,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Snippet: ",
+				"Snippet: COOKIE['…']"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 459.0
+	},
+	"console":
+	{
+		"height": 245.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/dtr3/",
+		"/var/www/html/dtr3//application",
+		"/var/www/html/dtr3//application/controllers",
+		"/var/www/html/dtr3//application/controllers/Requirements"
+	],
+	"file_history":
+	[
+		"/var/www/html/dtr3/application/models/Quotations/SendQuotation.php",
+		"/var/www/html/dtr3/application/models/Requirements/InsertRequirement.php",
+		"/var/www/html/dtr3/application/controllers/Quotations/Visit.php",
+		"/var/www/html/dtr3/application/language/es/quotation_lang.php",
+		"/var/www/html/dtr3/application/views/es/quotations/modal-visit-confirm.php",
+		"/var/www/html/dtr3/application/controllers/Quotations/Add.php",
+		"/var/www/html/dtr3/application/controllers/Quotations/Insert.php",
+		"/var/www/html/dtr3/application/views/es/products/modal-show.php",
+		"/var/www/html/dtr3/application/controllers/Quotations/Resume.php",
+		"/var/www/html/dtr3/application/views/es/quotations/modal-resume.php",
+		"/var/www/html/dtr3/application/models/Quotations/GetQuotations.php",
+		"/var/www/html/dtr3/application/models/Quotations/InsertQuotation.php",
+		"/var/www/html/dtr3/application/language/es/common_lang.php",
+		"/var/www/html/dtr3/application/views/es/users/assoc-products.php",
+		"/var/www/html/dtr3/application/controllers/Quotations/Send.php",
+		"/var/www/html/dtr3/application/controllers/Requirements/Add.php",
+		"/var/www/html/dtr3/application/controllers/Products/UpdateByUser.php",
+		"/var/www/html/dtr3/application/controllers/Users/Update.php",
+		"/var/www/html/dtr3/application/controllers/Place/Products.php",
+		"/var/www/html/dtr3/application/views/es/quotations/add.php",
+		"/var/www/html/dtr3/application/views/es/requirements/cargo-moving-details.php",
+		"/var/www/html/dtr3/application/views/es/requirements/cargo-moving.php",
+		"/var/www/html/dtr3/application/config/config.ranking.php",
+		"/var/www/html/dtr3/application/controllers/Quotations/Get.php",
+		"/var/www/html/dtr3/application/controllers/Requirements/Quotations.php",
+		"/var/www/html/dtr3/application/views/es/requirements/modal-user-quotations.php",
+		"/var/www/html/dtr3/application/models/Requirements/GetRequirement.php",
+		"/var/www/html/dtr3/application/language/es/message_lang.php",
+		"/var/www/html/dtr3/application/models/Chart.php",
+		"/var/www/html/dtr3/application/config/config.dtransporte.php",
+		"/var/www/html/dtr3/application/models/Init.php",
+		"/var/www/html/dtr3/application/controllers/Users/Country.php",
+		"/var/www/html/dtr3/application/views/es/products/modal-countries.php",
+		"/var/www/html/dtr3/application/models/Alerts.php",
+		"/var/www/html/dtr3/application/models/Faults.php",
+		"/var/www/html/dtransporte/application/models/Quotations.php",
+		"/var/www/html/dtr3/application/controllers/First/Assoc.php",
+		"/var/www/html/dtr3/application/views/es/first-time-assoc-home.php",
+		"/var/www/html/dtr3/js/form-validator.js",
+		"/var/www/html/dtr3/js/block-scr.js",
+		"/var/www/html/dtr3/css/user.css",
+		"/var/www/html/dtr3/application/language/es/menu_lang.php",
+		"/var/www/html/dtr3/application/views/es/block-scr.php",
+		"/var/www/html/dtr3/application/models/Users/LockUser.php",
+		"/var/www/html/dtr3/application/views/es/users/fpwd.php",
+		"/var/www/html/dtr3/application/language/es/mail-tpl_lang.php",
+		"/var/www/html/dtr3/application/models/Users/Getusers.php",
+		"/var/www/html/dtr3/application/controllers/Users/Pwd.php",
+		"/var/www/html/dtr3/application/models/Password.php",
+		"/var/www/html/dtr3/application/controllers/BlockScr.php",
+		"/var/www/html/dtr3/application/controllers/Users/Fpwd.php",
+		"/var/www/html/dtr3/application/views/mail-tpl.php",
+		"/var/www/html/dtr3/application/models/Users/Updateusers.php",
+		"/var/www/html/dtr3/application/views/es/users/change-pwd.php",
+		"/var/www/html/dtr3/application/views/captcha.php",
+		"/var/www/html/dtr3/application/views/es/users/new-pwd.php",
+		"/var/www/html/dtr3/application/views/es/validation/error.php",
+		"/var/www/html/dtr3/application/views/es/validation/success.php",
+		"/var/www/html/dtr3/application/views/index.php",
+		"/var/www/html/dtr3/application/views/es/change-pwd.php",
+		"/var/www/html/dtransporte/application/controllers/Users/Pwd.php",
+		"/var/www/html/dtransporte/application/models/Users.php",
+		"/var/www/html/dtransporte/application/views/index.php",
+		"/var/www/html/dtransporte/js/interface.js",
+		"/var/www/html/dtr3/application/views/es/users/modal-settings-data.php",
+		"/var/www/html/dtr3/application/views/es/users/settings-data.php",
+		"/var/www/html/dtr3/application/controllers/Users/Settings.php",
+		"/var/www/html/dtr3/application/controllers/Requirements/Check.php",
+		"/var/www/html/dtr3/application/controllers/Place/User.php",
+		"/var/www/html/dtr3/application/views/es/users/modal-user-image.php",
+		"/var/www/html/dtr3/application/controllers/Users/Image.php",
+		"/var/www/html/dtr3/js/upload.js",
+		"/var/www/html/dtr3/js/charts.js",
+		"/var/www/html/dtr3/js/password.js",
+		"/var/www/html/dtr3/application/controllers/Users/Password.php",
+		"/var/www/html/dtr3/application/views/es/users/location-data.php",
+		"/var/www/html/dtr3/js/location/autocomplete.js",
+		"/var/www/html/dtr3/application/views/es/users/modal-personal-data.php",
+		"/var/www/html/dtr3/application/controllers/Users/Data.php",
+		"/var/www/html/dtr3/application/views/es/users/company-data.php",
+		"/var/www/html/dtr3/application/views/es/users/personal-data.php",
+		"/var/www/html/dtr3/application/config/config.views.php",
+		"/var/www/html/dtr3/js/quotations.js",
+		"/var/www/html/dtr3/js/requirements/requirements.js",
+		"/var/www/html/dtr3/application/language/es/tables_lang.php",
+		"/var/www/html/dtr3/application/controllers/Quotations/Cancel.php",
+		"/var/www/html/dtr3/application/models/Quotations/CancelQuotation.php",
+		"/var/www/html/dtr3/application/models/Quotations/SetTable.php",
+		"/var/www/html/dtr3/application/models/Requirements/SetTable.php",
+		"/var/www/html/dtr3/application/controllers/Requirements/Cancel.php",
+		"/var/www/html/dtr3/application/language/es/countries_lang.php",
+		"/var/www/html/dtr3/application/controllers/DataChart.php",
+		"/var/www/html/dtr3/application/views/es/quotations/modal-send-confirm.php",
+		"/var/www/html/dtr3/application/vendor/composer/autoload_psr4.php",
+		"/var/www/html/dtr3/application/controllers/Requirements/Get.php",
+		"/var/www/html/dtr3/js/user.js",
+		"/var/www/html/dtr3/application/models/Ranking.php",
+		"/var/www/html/dtr3/application/controllers/Home/User.php",
+		"/var/www/html/dtr3/application/models/Requirements/SendRequirement.php",
+		"/var/www/html/dtr3/application/language/es/requirement_lang.php",
+		"/var/www/html/dtr3/application/language/es/validation_lang.php",
+		"/var/www/html/dtr3/application/language/es/moving_lang.php",
+		"/var/www/html/dtr3/application/language/es/incoterm_lang.php",
+		"/var/www/html/dtr3/application/language/es/product_lang.php",
+		"/var/www/html/dtr3/application/language/es/containers_lang.php",
+		"/var/www/html/dtr3/application/config/config.php",
+		"/var/www/html/dtr3/application/config/config.requirements.php",
+		"/var/www/html/dtr3/application/controllers/Home.php",
+		"/var/www/html/dtr3/application/controllers/Upload.php",
+		"/var/www/html/dtr3/application/controllers/Place/Assoc.php",
+		"/var/www/html/dtr3/application/views/es/quotations/modal-cancel-confirm.php",
+		"/var/www/html/dtr3/application/controllers/Requirements/Close.php",
+		"/var/www/html/dtr3/application/models/Requirements/CloseRequirement.php",
+		"/var/www/html/dtr3/application/controllers/Quotations/Delete.php",
+		"/var/www/html/dtr3/application/views/es/quotations/modal-delete-confirm.php",
+		"/var/www/html/dtr3/application/models/Mail.php",
+		"/var/www/html/dtr3/application/controllers/First/Start.php",
+		"/var/www/html/dtr3/application/controllers/Users/Get.php",
+		"/var/www/html/dtr3/application/controllers/Products/Show.php",
+		"/var/www/html/dtr3/application/controllers/Requirements/Insert.php",
+		"/var/www/html/dtr3/application/controllers/Requirements/Resume.php",
+		"/var/www/html/dtr3/application/controllers/Requirements/Delete.php",
+		"/var/www/html/dtransporte/application/models/Ranking.php",
+		"/var/www/html/dtr3/application/controllers/Requirements/Program.php",
+		"/var/www/html/dtr3/application/controllers/Requirements/Images.php",
+		"/var/www/html/dtr3/application/controllers/Requirements/Address.php",
+		"/var/www/html/dtr3/application/controllers/Requirements/HsCodes.php",
+		"/var/www/html/dtr3/application/models/Requirements/SetViews.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"sum",
+			"['ranking']",
+			"ranked_by",
+			"id_ranking",
+			"detail",
+			"id_user",
+			"ranked_by",
+			"$index",
+			"quotations",
+			"id_user",
+			"resume",
+			"send",
+			"id_quotation",
+			"Send",
+			"quotation_qrcode",
+			"send",
+			"Quotation",
+			"success",
+			"danger",
+			"rejectedQuotations",
+			"danger",
+			"dtr_requirements",
+			"company",
+			"h5",
+			"id_company",
+			"id_requirement",
+			"dtr_users",
+			"id_requirement",
+			"['dtr_ranking']",
+			"req",
+			"id_requirement",
+			"requirement_name",
+			".toFixed(2)",
+			"textareaPrefix",
+			"val",
+			"span",
+			"self",
+			"i",
+			"span",
+			"no-print",
+			"rank",
+			"_setUserMenu",
+			"rank",
+			"_setReceiveFrom",
+			"_saveProducts",
+			"_showCountries",
+			"self",
+			"_setContainer",
+			"settimeout",
+			"Pwd",
+			"_setPopOver",
+			"Users",
+			"js/",
+			"sm",
+			"_setUserMenu",
+			"dtr-scr-unblock-attempts",
+			"BLOCK-SCREEN",
+			"isset($_SESSION['DTRANSPORTE-USER']) OR isset($_SESSION['DTRANSPORTE-EMPLOYEE'])",
+			"BlockScr",
+			"user_id",
+			"blockScrDuration",
+			"pl-3",
+			"text-center",
+			"this->data",
+			"Data",
+			"user",
+			"canvas",
+			"console",
+			"Password",
+			"Data",
+			"passw",
+			"pwd",
+			"password",
+			"datetimepicker",
+			"location",
+			"_update",
+			"validatr",
+			"75",
+			"id_requirement",
+			"quot",
+			"dtr-quotation-status",
+			"dtr-quotation",
+			"dtr-quotation-status",
+			"badge",
+			"src",
+			"dist",
+			"text-resume-quotation",
+			"fas fa-ban",
+			"$status",
+			"id_requirement",
+			"id_quotation",
+			"$status",
+			"status",
+			"tplHeader",
+			"status",
+			"p",
+			"additionals",
+			"print",
+			"submenu",
+			"comapny_name",
+			"status",
+			"assoc",
+			"id_assoc",
+			"usuario",
+			"requirement",
+			"id_requirement",
+			"btn-lg",
+			"$html .= ",
+			"company_name",
+			"self",
+			"text-dark",
+			"white",
+			"danger",
+			"primary",
+			"text-white",
+			"font-weight-bold",
+			"impo",
+			"\\",
+			"$html .= \"",
+			" .=",
+			"danger",
+			"close",
+			"thead",
+			"caption",
+			"h5",
+			"['quotations']",
+			"h4",
+			"h5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&aacute;",
+			"&oacute;",
+			"&eacute;",
+			"&iacute;",
+			"&eacute;",
+			"&iacute;",
+			"&uacute;",
+			"&aacute;",
+			"&iacute;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/vendor/composer/autoload_psr4.php.backup",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1257,
+								1257
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/language/es/validation_lang.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1247,
+								1247
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/language/es/tables_lang.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8983,
+								8992
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8082.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/config/config.views.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11987,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6350,
+								6350
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5269.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/controllers/Place/Assoc.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1856,
+								1856
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 189.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/controllers/Users/RankUser.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4034,
+								4034
+							],
+							[
+								4092,
+								4092
+							],
+							[
+								4143,
+								4143
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1545.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "application/controllers/Quotations/Get.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1139,
+								1235
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "application/models/Chart.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5102,
+								5102
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 309.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "application/models/Ranking.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1779,
+								1779
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 666.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "application/models/Users/Getusers.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "application/models/Requirements/SetViews.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2394,
+								2394
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 921.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "application/views/es/requirements/modal-user-ranking.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								717,
+								729
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "application/controllers/Place/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								890,
+								890
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 93.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "application/controllers/DataChart.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1713,
+								1713
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 377.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "application/models/Quotations/SetTable.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4685,
+								4710
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1961.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "application/models/Requirements/SetTable.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4103,
+								4103
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 289.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "application/views/navbar-user.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4320,
+								4330
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 855.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "application/views/es/users/user-home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3096,
+								3115
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 795.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "application/views/es/users/assoc-home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2862,
+								2862
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 930.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "js/user.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								520,
+								520
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 863.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "js/ranking.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2884,
+								2884
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 408.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "js/product.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7458,
+								7458
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4930.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "js/charts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								230,
+								230
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "js/bootstrap-table/bst-events.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1221,
+								1221
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 127.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "js/requirements/requirements.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1374.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "js/quotations.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7970,
+								7970
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1356.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "js/interface.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2174,
+								2174
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 971.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "dtr3.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"get",
+				"application/controllers/Quotations/Get.php"
+			],
+			[
+				"getuser",
+				"application/models/Users/Getusers.php"
+			],
+			[
+				"modal-ran",
+				"application/views/es/requirements/modal-ranking.php"
+			],
+			[
+				"resume",
+				"application/controllers/Quotations/Resume.php"
+			],
+			[
+				"getqu",
+				"application/models/Quotations/GetQuotations.php"
+			],
+			[
+				"modal-resu",
+				"application/views/es/quotations/modal-resume.php"
+			],
+			[
+				"quo",
+				"application/language/es/quotation_lang.php"
+			],
+			[
+				"insertq",
+				"application/models/Quotations/InsertQuotation.php"
+			],
+			[
+				"common",
+				"application/language/es/common_lang.php"
+			],
+			[
+				"modal-sen",
+				"application/views/es/quotations/modal-send-confirm.php"
+			],
+			[
+				"add",
+				"application/controllers/Quotations/Add.php"
+			],
+			[
+				"insert",
+				"application/controllers/Quotations/Insert.php"
+			],
+			[
+				"sendq",
+				"application/models/Quotations/SendQuotation.php"
+			],
+			[
+				"quota",
+				"application/language/es/quotation_lang.php"
+			],
+			[
+				"send",
+				"application/controllers/Quotations/Send.php"
+			],
+			[
+				"quot",
+				"js/quotations.js"
+			],
+			[
+				"require",
+				"js/requirements/requirements.js"
+			],
+			[
+				"commo",
+				"application/language/es/common_lang.php"
+			],
+			[
+				"requirementin",
+				"application/models/Requirements/InsertRequirement.php"
+			],
+			[
+				"setvie",
+				"application/models/Requirements/SetViews.php"
+			],
+			[
+				"add.php",
+				"application/controllers/Requirements/Add.php"
+			],
+			[
+				"moving",
+				"application/views/es/requirements/cargo-moving.php"
+			],
+			[
+				"config.ran",
+				"application/config/config.ranking.php"
+			],
+			[
+				"modal-res",
+				"application/views/es/quotations/modal-resume.php"
+			],
+			[
+				"modal-user",
+				"application/views/es/requirements/modal-user-quotations.php"
+			],
+			[
+				"getq",
+				"application/models/Quotations/GetQuotations.php"
+			],
+			[
+				"getre",
+				"application/models/Requirements/GetRequirement.php"
+			],
+			[
+				"chart",
+				"application/models/Chart.php"
+			],
+			[
+				"config.d",
+				"application/config/config.dtransporte.php"
+			],
+			[
+				"init",
+				"application/models/Init.php"
+			],
+			[
+				"messa",
+				"application/language/es/message_lang.php"
+			],
+			[
+				"modal",
+				"application/views/es/products/modal-countries.php"
+			],
+			[
+				"countr",
+				"application/controllers/Users/Country.php"
+			],
+			[
+				"rank",
+				"/var/www/html/dtr3/application/models/Ranking.php"
+			],
+			[
+				"country",
+				"application/controllers/Users/Country.php"
+			],
+			[
+				"assoc-p",
+				"application/views/es/users/assoc-products.php"
+			],
+			[
+				"alert",
+				"application/models/Alerts.php"
+			],
+			[
+				"fau",
+				"application/models/Faults.php"
+			],
+			[
+				"user",
+				"application/controllers/Place/User.php"
+			],
+			[
+				"sett",
+				"application/models/Requirements/SetTable.php"
+			],
+			[
+				"qetq",
+				"application/models/Quotations/GetQuotations.php"
+			],
+			[
+				"upda",
+				"application/controllers/Products/UpdateByUser.php"
+			],
+			[
+				"produ",
+				"js/product.js"
+			],
+			[
+				"menu",
+				"application/language/es/menu_lang.php"
+			],
+			[
+				"getus",
+				"application/models/Users/Getusers.php"
+			],
+			[
+				"mail-tpl",
+				"application/language/es/mail-tpl_lang.php"
+			],
+			[
+				"mail-t",
+				"application/views/mail-tpl.php"
+			],
+			[
+				"index.php",
+				"application/views/index.php"
+			],
+			[
+				"captch",
+				"application/views/captcha.php"
+			],
+			[
+				"change-pw",
+				"application/views/es/users/change-pwd.php"
+			],
+			[
+				"change-",
+				"application/views/es/users/change-pwd.php"
+			],
+			[
+				"change",
+				"application/views/es/change-pwd.php"
+			],
+			[
+				"change-p",
+				"application/views/es/users/change-pwd.php"
+			],
+			[
+				"passw",
+				"application/models/Password.php"
+			],
+			[
+				"pwd",
+				"application/controllers/Users/Pwd.php"
+			],
+			[
+				"nav",
+				"application/views/navbar-user.php"
+			],
+			[
+				"config",
+				"application/config/config.dtransporte.php"
+			],
+			[
+				"check",
+				"application/controllers/Requirements/Check.php"
+			],
+			[
+				"chatr",
+				"js/charts.js"
+			],
+			[
+				"tables",
+				"application/language/es/tables_lang.php"
+			],
+			[
+				"modal-dat",
+				"application/views/es/users/modal-personal-data.php"
+			],
+			[
+				"settings",
+				"application/views/es/users/settings-data.php"
+			],
+			[
+				"data",
+				"application/controllers/Users/Data.php"
+			],
+			[
+				"upl",
+				"js/upload.js"
+			],
+			[
+				"pass",
+				"js/password.js"
+			],
+			[
+				"mess",
+				"application/language/es/message_lang.php"
+			],
+			[
+				"autoco",
+				"js/location/autocomplete.js"
+			],
+			[
+				"first",
+				"application/views/es/first-time-assoc-home.php"
+			],
+			[
+				"config.vie",
+				"application/config/config.views.php"
+			],
+			[
+				"modal-per",
+				"application/views/es/users/modal-personal-data.php"
+			],
+			[
+				"modal-p",
+				"application/views/es/users/modal-personal-data.php"
+			],
+			[
+				"valid",
+				"application/language/es/validation_lang.php"
+			],
+			[
+				"firs",
+				"application/views/es/first-time-assoc-home.php"
+			],
+			[
+				"form",
+				"js/form-validator.js"
+			],
+			[
+				"config.v",
+				"application/config/config.views.php"
+			],
+			[
+				"val",
+				"application/language/es/validation_lang.php"
+			],
+			[
+				"countries",
+				"application/language/es/countries_lang.php"
+			],
+			[
+				"char",
+				"js/charts.js"
+			],
+			[
+				"rankin",
+				"application/config/config.ranking.php"
+			],
+			[
+				"cancel",
+				"application/controllers/Requirements/Cancel.php"
+			],
+			[
+				"modal-re",
+				"application/views/es/quotations/modal-resume.php"
+			],
+			[
+				"qu",
+				"js/quotations.js"
+			],
+			[
+				"config.r",
+				"application/config/config.ranking.php"
+			],
+			[
+				"fault",
+				"application/models/Faults.php"
+			],
+			[
+				"modal-send",
+				"application/views/es/quotations/modal-send-confirm.php"
+			],
+			[
+				"bst",
+				"js/bootstrap-table/bst-events.js"
+			],
+			[
+				"modal-u",
+				"application/views/es/requirements/modal-user-quotations.php"
+			],
+			[
+				"asso",
+				"application/controllers/Place/Assoc.php"
+			],
+			[
+				"mail-",
+				"application/language/es/mail-tpl_lang.php"
+			],
+			[
+				"inser",
+				"application/models/Quotations/InsertQuotation.php"
+			],
+			[
+				"getr",
+				"application/models/Requirements/GetRequirement.php"
+			],
+			[
+				"sendr",
+				"application/models/Requirements/SendRequirement.php"
+			],
+			[
+				"q",
+				"application/language/es/quotation_lang.php"
+			],
+			[
+				"inter",
+				"js/interface.js"
+			],
+			[
+				"assoc",
+				"application/views/es/users/assoc-home.php"
+			],
+			[
+				"user-h",
+				"application/views/es/users/user-home.php"
+			],
+			[
+				"aler",
+				"application/models/Alerts.php"
+			],
+			[
+				"getu",
+				"application/models/Users/Getusers.php"
+			],
+			[
+				"",
+				"/var/www/html/dtr3/application/models/Users/Getusers.php"
+			],
+			[
+				"curren",
+				"application/models/Currencies.php"
+			],
+			[
+				"inc",
+				"application/language/es/incoterm_lang.php"
+			],
+			[
+				"opert",
+				"application/views/es/requirements/operation-type.php"
+			],
+			[
+				"mail",
+				"application/models/Mail.php"
+			],
+			[
+				"login",
+				"application/views/es/login.php"
+			],
+			[
+				"destin",
+				"application/views/es/requirements/destination-address.php"
+			],
+			[
+				"origi",
+				"application/views/es/requirements/origin-address.php"
+			],
+			[
+				"oper",
+				"application/views/es/requirements/operation-type.php"
+			],
+			[
+				"modal-d",
+				"application/views/es/requirements/modal-delete-confirm.php"
+			],
+			[
+				"jumbo",
+				"application/views/es/jumbotron.php"
+			],
+			[
+				"cargow",
+				"application/views/es/requirements/resume/cargo-details-warehousing.php"
+			],
+			[
+				"cargo-w",
+				"application/views/es/requirements/cargo-details-warehousing.php"
+			],
+			[
+				"cargo-d",
+				"application/views/es/requirements/resume/cargo-details.php"
+			],
+			[
+				"cargo-ha",
+				"application/views/es/requirements/resume/cargo-details-hazard.php"
+			],
+			[
+				"presen",
+				"application/views/es/requirements/resume/presentation-address.php"
+			],
+			[
+				"wayp",
+				"application/views/es/requirements/resume/waypoints-address.php"
+			],
+			[
+				"config.mai",
+				"application/config/config.mail.php"
+			],
+			[
+				"count",
+				"js/countdown.js"
+			],
+			[
+				"coun",
+				"application/models/Countries.php"
+			],
+			[
+				"modal-se",
+				"application/views/es/requirements/modal-send-confirm.php"
+			],
+			[
+				"address",
+				"application/views/es/requirements/destination-address.php"
+			],
+			[
+				"ajax",
+				"js/ajax.js"
+			],
+			[
+				"asse",
+				"/var/www/html/dtransporte/js/assets.js"
+			],
+			[
+				"inlin",
+				"application/views/inline-message.php"
+			],
+			[
+				"pay",
+				"application/views/es/requirements/pay-terms.php"
+			],
+			[
+				"cargo-s",
+				"application/views/es/requirements/resume/cargo-specials.php"
+			],
+			[
+				"cargo",
+				"js/requirements/cargo-specials.js"
+			],
+			[
+				"contai",
+				"application/views/es/requirements/cargo-details-container.php"
+			],
+			[
+				"hom",
+				"application/views/es/users/user-home.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Julieta/hs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

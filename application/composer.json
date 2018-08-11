@@ -1,0 +1,17 @@
+{
+    "require": {
+        "twbs/bootstrap": "^4.1",
+        "components/jquery": "^3.3",
+        "components/jqueryui": "^1.12",
+        "heimrichhannot/popper.js": "^1.12",
+        "eonasdan/bootstrap-datetimepicker": "^4.17",
+        "twig/twig": "^2.4",
+        "leafo/lessphp": "^0.5.0",
+        "leafo/scssphp": "^0.7.6",
+        "ptachoire/cssembed": "^1.0",
+        "patchwork/jsqueeze": "^2.0",
+        "moxiecode/plupload": "^3.1",
+        "endroid/qr-code": "^3.2",
+        "nnnick/chartjs": "^2.7"
+    }
+}
